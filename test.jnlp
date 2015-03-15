@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-	<jnlp spec="1.0+" codebase="ibrahimansari.github.io/APCS-Web-Start/" href="test.jnlp">
+	<jnlp spec="1.0+" codebase="http://iansari.com/APCS-Web-Start/" href="test.jnlp">
 		<information>
 			<title>SimpleDraw</title>
 			<vendor>Ibrahim Ansari</vendor>
