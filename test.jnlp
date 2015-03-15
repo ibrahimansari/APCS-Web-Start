@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<jnlp spec="1.0+" codebase="/Users/Ibrahim/Desktop/Test Space/Test" href="test.jnlp">
+		<information>
+			<title>SimpleDraw</title>
+			<vendor>Ibrahim Ansari</vendor>
+			<homepage href="" />
+			<description>SimpleDraw</description>
+		</information>
+		<security>
+			<all-permissions/>
+		</security>
+		<resources>
+			<j2se version="1.8+" />
+			<jar href="Test.jar" />
+		</resources>
+		<application-desc main-class="SimpleDrawIAnsariPeriod7" />
+	</jnlp>
