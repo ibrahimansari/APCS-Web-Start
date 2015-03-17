@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<jnlp spec="1.0+" codebase="https://sites.google.com/a/student.fuhsd.org/minesweeper-2-0/game/" href="minesweeper.jnlp">
+		<information>
+			<title>Minesweeper</title>
+			<vendor>Ibrahim Ansari</vendor>
+			<homepage href="https://sites.google.com/a/student.fuhsd.org/minesweeper-2-0/game" />
+			<description>Minesweeper</description>
+		</information>
+		<security>
+			<all-permissions/>
+		</security>
+		<resources>
+			<j2se version="1.8+" />
+			<jar href="https://sites.google.com/a/student.fuhsd.org/minesweeper-2-0/game/minesweeper.jar" />
+		</resources>
+		<application-desc main-class="MineSweeperIAnsariPeriod7" />
+	</jnlp>
