@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-	<jnlp spec="1.0+" codebase="http://iansari.com/APCS-Web-Start/" href="minesweeper.jnlp">
+	<jnlp spec="1.0+" codebase="http://http://iansari.com/APCS-Web-Start/" href="minesweeper.jnlp">
 		<information>
 			<title>Minesweeper</title>
 			<vendor>Ibrahim Ansari</vendor>
@@ -11,7 +11,7 @@
 		</security>
 		<resources>
 			<j2se version="1.8+" />
-			<jar href="http://iansari.com/APCS-Web-Start/minesweeper.jar" />
+			<jar href="https://sites.google.com/a/student.fuhsd.org/minesweeper-2-0/game/minesweeper.jar" />
 		</resources>
 		<application-desc main-class="MineSweeperIAnsariPeriod7" />
 	</jnlp>
