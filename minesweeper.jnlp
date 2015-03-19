@@ -4,6 +4,7 @@
 			<title>Minesweeper</title>
 			<vendor>Ibrahim Ansari</vendor>
 			<homepage href="https://sites.google.com/a/student.fuhsd.org/minesweeper-2-0/game" />
+			<icon href="splash.jpg" kind="splash"/>
 			<description>Minesweeper</description>
 		</information>
 		<security>
